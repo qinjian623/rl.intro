@@ -1,3 +1,5 @@
-# My Awesome Book
+# Reinforcement Learning: An Introduction 中文翻译
+书本原始出处： http://incompleteideas.net/sutton/book/the-book-2nd.html
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+

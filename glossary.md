@@ -74,7 +74,7 @@
 1.K-armed bandit problem k臂赌徒摇臂机问题
 # L
 1.leaning 学习
-.local optimum 局部最优
+2.local optimum 局部最优
 # M
 1.Markov decision processes(MDP) 马尔科夫决策过程
 2.maximum-likelihood estimate 最大似然估计
